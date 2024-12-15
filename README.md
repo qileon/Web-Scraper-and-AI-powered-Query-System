@@ -14,3 +14,19 @@ The tool successfully extracted headings and paragraphs and used AI to answer se
 
 ## 5. CONCLUSION  
 This tool is an easy-to-use program for scraping and analyzing websites with the help of AI, offering a reliable way to process online information.
+
+## Important Note
+Before running the code, make sure you've installed the following libraries:
+
+**requests**
+**warnings** (Comes with Python, no need for separate installation.)
+**bs4** (Installed as beautifulsoup4.)
+**google-generativeai** (Google's generative AI library.)
+**os** (Comes with Python, no need for separate installation.)
+**tkinter** (Comes with Python, no need for separate installation. However, it may require manual installation on some systems.)
+**typing** (Comes with Python, no need for separate installation.)
+
+To install the required libraries, run the following commands in the Terminal:
+pip install requests  
+pip install beautifulsoup4  
+pip install google-generativeai  
